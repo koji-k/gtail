@@ -1,5 +1,5 @@
 /**
- * --encoding cp1252 -n 2  /kuwana/work/log/de.txt
+ * GTail
  */
 class GTail {
 
