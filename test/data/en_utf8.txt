@@ -1,0 +1,7 @@
+This is en_utf8.txt
+Hello
+W
+o
+r
+l
+d
