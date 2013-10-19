@@ -2,11 +2,12 @@
  * --encoding cp1252 -n 2  /kuwana/work/log/de.txt
  */
 class GTail {
+
+    // 参考にしたページ
     //http://blog.livedoor.jp/birdman328/archives/3405176.html
     //https://code.google.com/p/popup-tail/source/browse/trunk/src/jp/chiheisen/popuptail/tail/Tail.java?r=2
     //http://ja.softuses.com/22133
     //http://homepage1.nifty.com/kix/jtailer/jtailerjp.html
-    // Gtailerだなんていうアプリ名はどうだろう？？
 
     //def sourceEncoding = "Cp1252"
     def sourceEncoding = "UTF-8"
